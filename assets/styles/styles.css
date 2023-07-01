@@ -23,7 +23,7 @@ a
 a:hover
 {
 
-    background-color: #003A79;
+    background-color: #2E4745;
     padding: 3px;
     border-radius: 5px;
 }
@@ -276,7 +276,7 @@ header nav li
 }
 
 .hero-section .left a{
-    background-color: #003A79;
+    background-color: black;
     color: white;
     padding: 1.2vw 6vw;
     border-style: none;
