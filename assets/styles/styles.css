@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    font-family: ibm-plex-sans, sans-serif;
+    font-family: 'ABeeZee', 'Quicksand', sans-serif;
     font-weight: 400;
     font-style: normal;
 }
@@ -17,13 +17,13 @@ a
     text-decoration: none;
     color: white;
     cursor: pointer;
-
+    font-family: 'ABeeZee', 'Quicksand', sans-serif;
 }
 
 a:hover
 {
 
-    background-color: #2E4745;
+    border-bottom: #2E4745 solid 3px;
     padding: 3px;
     border-radius: 5px;
 }
@@ -124,6 +124,10 @@ header nav li
     width: max-content;
     font-size: 20px;
     color:  white;
+
+}
+.nav-menu li a{
+    font-weight: 800;
 }
 
 .idioma
