@@ -352,7 +352,7 @@ section h1.title
     font-size: 2.8vw;
     margin-bottom: 12px;
     font-weight:bold;
-    color: #3C5BA9;
+    color: #2E4745;
 }
 .feature1-image img{
     margin-right: 7vw;
@@ -396,7 +396,7 @@ section h1.title
 
 /*About Product**/
 .about-product{
-    background-color: #0069D0;
+    background-color: #85D0C9;
 }
 
 .about-product {
@@ -435,7 +435,7 @@ section h1.title
 }
 
 #about-product .left a{
-    background-color: #003A79;
+    background-color: black;
     color: white;
     padding: 1.2vw 6vw;
     border-style: none;
@@ -506,7 +506,7 @@ section h1.title
 }
 
 .physiotherapist .left a{
-    background-color: #003A79;
+    background-color: black;
     color: white;
     padding: 1.2vw 12vw;
     border-style: none;
@@ -588,7 +588,7 @@ section h1.title
 }
 
 #testimonials {
-    background-color: #3C5BA9;
+    background-color: #2E4745;
     height: 650px;
 }
 #testcards {
@@ -634,7 +634,7 @@ section h1.title
     top: 0;
     height: 100%;
     width: 100%;
-    background-color: #4070F4;
+    background-color: black;
     border-radius: 25px 25px 0 25px;
 }
 .overlay::before,
@@ -645,7 +645,7 @@ section h1.title
     bottom: -40px;
     height: 40px;
     width: 40px;
-    background-color: #4070F4;
+    background-color: black;
 }
 .overlay::after{
     border-radius: 0 25px 0 0;
@@ -664,7 +664,7 @@ section h1.title
     width: 100%;
     object-fit: cover;
     border-radius: 50%;
-    border: 4px solid #4070F4;
+    border: 4px solid black;
 }
 .name{
     font-size: 18px;
