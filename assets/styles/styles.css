@@ -576,7 +576,7 @@ section h1.title
 
 /*Testimonials*/
 
-#testimonials h1 {
+#reviews h1 {
     text-transform: capitalize;
     font-family: ibm-plex-sans, sans-serif;
     text-align: center;
@@ -585,7 +585,7 @@ section h1.title
     color: white;
 }
 
-#testimonials {
+#reviews {
     background-color: #2E4745;
     height: 650px;
 }
